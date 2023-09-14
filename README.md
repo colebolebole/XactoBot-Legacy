@@ -7,7 +7,7 @@
 
 i am releasing Xacto Bot's source code!
 
-uses bdscript (https://botdesignerdiscord.com) 's launguage!
+uses bdscript (https://botdesignerdiscord.com) 's language!
 
 ---
 
