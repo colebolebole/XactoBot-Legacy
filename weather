@@ -1,0 +1,6 @@
+$nomention
+$title[$randomText[⛅;☁️;🌩️;🌥️;🌤️;☀️] Weather in $message]
+$image[https://wttr.in/$message.png?m]
+$footer[$username]
+$addTimestamp
+$argsCheck[>1;You must insert name of the city. ]
