@@ -1,0 +1,7 @@
+$onlyAdmin[Sorry You Cannot Operate This Command Without Having Admin Permissions!]
+
+$nomention
+$color[$randomText[#f000;#FF0000]]
+$footer[Author : $username]
+$author[New announcement]
+$description[$message]
