@@ -17,6 +17,6 @@ uses bdscript (https://botdesignerdiscord.com) 's language!
 ![image](https://github.com/colebolebole/XactoBot/assets/88512222/931264f4-055e-4be2-9342-1048613b002f)
 
 
-Command Tree
+Legacy Command Tree
 
 
